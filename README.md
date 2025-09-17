@@ -13,6 +13,7 @@ Currently, two official plugins are available:
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 =======
 # Portfolio
+<<<<<<< HEAD
 Personal Web Developer Portfolio showcasing Full-Stack projects, skills, and professional profile built with React, Tailwind CSS, and Vite.
 
 
@@ -42,3 +43,5 @@ Welcome to my personal portfolio! This project highlights my skills, education, 
 - LinkedIn: [Md Shami Arzoo](https://linkedin.com/in/md-shami-arzoo-4799a6295)
 - GitHub: [shami700](https://github.com/shami700)
 >>>>>>> origin/main
+=======
+>>>>>>> 5df68eb7b749adb5d2e45dbcfa999e92c18ae949
